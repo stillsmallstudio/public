@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Data / outputs
+*.csv
+*.tsv
+*.json
+*.txt
+*.npy
+*.npz
+*.mid
+*.midi
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
